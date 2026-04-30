@@ -25,6 +25,7 @@ final List<Student> sampleStudents = [
     level: '400',
     gpa: 4.2,
     email: 'ada.okonkwo@university.edu.ng',
+    phoneNumber: '+9055093685',
     contributedBy: 'MIS/2021/001 — Ada Okonkwo',
   ),
   const Student(
@@ -35,6 +36,7 @@ final List<Student> sampleStudents = [
     level: '400',
     gpa: 3.8,
     email: 'emeka.chukwu@university.edu.ng',
+    phoneNumber: '+9055093685',
     contributedBy: 'MIS/2021/002 — Emeka Chukwu',
   ),
   const Student(
@@ -45,6 +47,7 @@ final List<Student> sampleStudents = [
     level: '300',
     gpa: 4.7,
     email: 'ngozi.adeyemi@university.edu.ng',
+    phoneNumber: '+9055093685',
     contributedBy: 'MIS/2021/003 — Ngozi Adeyemi',
   ),
   const Student(
@@ -55,6 +58,7 @@ final List<Student> sampleStudents = [
     level: '400',
     gpa: 2.8,
     email: 'amadou.tyou@final.edu.tr',
+    phoneNumber: '+9055093685',
     contributedBy: '202060027 — Amadou Tyou',
   ),
 
@@ -69,6 +73,7 @@ final List<Student> sampleStudents = [
     level: '400',
     gpa: 1.9,
     email: 'khalid.mohamed@final.edu.tr',
+    phoneNumber: '+9055093685',
     contributedBy: '2202060077 - Khalid Mohamed',
   ),
 ];
